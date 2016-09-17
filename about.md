@@ -5,7 +5,17 @@ permalink: /about/
 tags: about
 ---
 
-![](http://www.gravatar.com/avatar/306e236622a3c082ec48b415387ffc81?s=260)
+<style>
+.gravatar-avatar {
+	border-radius: 50%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+}
+</style>
+
+<center>
+	<img src="http://www.gravatar.com/avatar/306e236622a3c082ec48b415387ffc81?s=260" class="gravatar-avatar">
+</center>
 
 Hi there! My name is Thorben Egberts. I am Software Developer, Scrum Master and Agile Coach.
 
