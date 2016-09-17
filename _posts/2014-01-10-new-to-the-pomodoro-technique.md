@@ -1,14 +1,12 @@
 ---
 layout:     post
-title:      New to the Pomodoro Technique
+title:      Pomodoro Technique
 date:       2014-01-10 08:06:00
-summary:    Trying out the Pomodoro technique.
+summary:    I'm trying the Pomodoro Technique to get things done.
 categories: productivity
 ---
 
-As this is my first blog post I wondered what topic to write about. One of the first things I thought of was the so called Pomodoro Technique that I started to use lately not only on my job but also in private. I also have to say that English is not my first language, so sorry for the poor quality of my words although I'm trying to write as simple as I can so everyone can understand what I'm talking about. I will also insert a few simple drawings. Drawing is also a thing that I startet lately and I try to take every chance to practice.
-
-Now here is what I want to talk about: The Pomodoro Technique. It is a time management method that is as simple as effective. It has been originally developed by Francesco Cirillo in the late 1980s. The name "Pomodoro" is italian for "tomato". Cirillo used a tomato shaped kitchen timer for his first tests.
+The Pomodoro Technique is a time management method that is both simple and effective. It has been originally developed by Francesco Cirillo in the late 1980s. The name "Pomodoro" is italian for "tomato". Cirillo used a tomato shaped kitchen timer for his first tests.
 
 ![](/assets/2014-01-10-new-to-the-pomodoro-technique/tomato2_medium-1.png)
 
