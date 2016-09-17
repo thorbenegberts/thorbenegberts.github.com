@@ -15,4 +15,4 @@ I'm currently working as an Agile Coach at [plentymarkets](https://www.plentymar
 
 You can find me on [Twitter](https://twitter.com/thorbenegberts), [Google+](https://plus.google.com/u/0/+ThorbenEgberts/), [Facebook](https://www.facebook.com/tegberts), [Linkedin](https://www.linkedin.com/pub/thorben-egberts/85/690/94b), [XING](https://www.xing.com/profile/Thorben_Egberts), [SoundCloud](https://soundcloud.com/thorben-egberts) and [GitHub](https://github.com/thorbenegberts).
 
-You can also find me regulary at the [Agile Monday Kassel](http://www.agile-monday.de/kassel/) ([Meetup](http://www.meetup.com/de-DE/agile-monday-kassel), [XING](https://www.xing.com/communities/groups/agile-monday-kassel-1050362).
+You can also find me regulary at the [Agile Monday Kassel](http://www.agile-monday.de/kassel/) ([Meetup](http://www.meetup.com/de-DE/agile-monday-kassel), [XING](https://www.xing.com/communities/groups/agile-monday-kassel-1050362)).
