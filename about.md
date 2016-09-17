@@ -1,20 +1,18 @@
 ---
 layout: page
-title: About Pixyll
+title: Who Am I?
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+![](http://www.gravatar.com/avatar/306e236622a3c082ec48b415387ffc81?s=260)
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Hi there! My name is Thorben Egberts. I am Software Developer, Scrum Master and Agile Coach.
 
-Thanks to the following:
+Software Development is my nature, however I am just as attracted by "social software" (people, teams and how organizations work). This lead me to Agile and Lean Methodologies.
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+I'm currently working as an Agile Coach at [plentymarkets](https://www.plentymarkets.eu/) in [Kassel, Germany](https://goo.gl/maps/CyhHe).
+
+You can find me on [Twitter](https://twitter.com/thorbenegberts), [Google+](https://plus.google.com/u/0/+ThorbenEgberts/), [Facebook](https://www.facebook.com/tegberts), [Linkedin](https://www.linkedin.com/pub/thorben-egberts/85/690/94b), [XING](https://www.xing.com/profile/Thorben_Egberts), [SoundCloud](https://soundcloud.com/thorben-egberts) and [GitHub](https://github.com/thorbenegberts).
+
+You can also find me regulary at the [Agile Monday Kassel](http://www.agile-monday.de/kassel/).
