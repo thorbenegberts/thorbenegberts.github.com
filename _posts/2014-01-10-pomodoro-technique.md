@@ -8,7 +8,9 @@ categories: productivity
 
 The Pomodoro Technique is a time management method that is both simple and effective. It has been originally developed by Francesco Cirillo in the late 1980s. The name "Pomodoro" is italian for "tomato". Cirillo used a tomato shaped kitchen timer for his first tests.
 
-![](/assets/2014-01-10-new-to-the-pomodoro-technique/tomato2_medium-1.png)
+<center>
+<img src="/assets/2014-01-10-new-to-the-pomodoro-technique/tomato2_medium-1.png">
+</center>
 
 The method splits your day into periods of focus and small breaks. We all know the feeling of flow, even if you do not know the term by now. Flow is a state in which you feel totally lost in your work. You feel neither bored or anxious. Time flows by and you don't notice it. You perform a task for it's own sake — not for the original goal you maybe had in mind. Even if the flow is a great thing, losing the focus on the goal while performing a task can be a serious problem. Over time you will waste a noticeable amount of time for things that does not match your goals while you feel totally productive. Here the Pomodoro Technique steps in. It provides a simple mechanism to lift you up from the deep of the flow, let you raise the periscope to take a look around and lets you decide whether you want to dive down again or move on to another task.
 
