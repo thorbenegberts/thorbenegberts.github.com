@@ -1,0 +1,29 @@
+---
+layout:     post
+title:      Early Riser
+date:       2014-01-26 22:15:00
+summary:    How come I turned into an early riser.
+categories: productivity
+---
+
+<center>
+	<img src="/assets/2014-01-26-how-come-i-turned-into-an-early-riser/48h_clock_transparent_small2.png">
+</center>
+
+It's only recently that I am an early riser. That I turned into one is the result of an process that started a few months ago. Retrospectively, I can says that _everybody_ can turn into an early riser even if most people fiercely deny it. My observation persuades me that being an early riser is more _nurture_ than nature.
+
+In my school days it was very hard for me to rise early. Even if I was few times late but I barely made it each morning. In my years at the university it became even harder. If there was a lecture early in the morning, I could barely keep my eyes open—and there where quite many of those. As I quit university to work on a job as a software developer it almost felt like heaven. My company had no strict rules for me to start working on a specific time. I arrived there mostly between 9 and 10 AM or even later. I felt really rested.
+
+Time went by, I got more experienced and someday became the leader of a whole team of other software developers. That meant a buck load of responsibility over night. Responsibility—provided you take it seriously—means also a buck load additional work to deal with. The same time—as I was in a leading position—the frequency of interruptions by my colleagues and my boss went trough the roof. I felt more and more unproductive.
+
+Several months ago I was again very busy on my job. There where more work to do than I could handle during my regular working time. Sounds familiar? Instead of working overtime in the evening I decided to arrive at work early next day. I decided to go to bed very early, about 10 PM, to be well rested—a thing that I actually never did in my time at university and school. Back then it felt really uncool to go to bed at such a decent time. Anyway, the next day it did feel little hard to get up, but not that hard as it experienced back in the old days. I got ready for work quickly and quietly sneaked out of the apartment fearing to wake up my girlfriend (she was anything but an early riser herself back then, too).
+
+I arrived at work just before 8 AM. It felt a bit spooky. No one was there and so I was the first to turn the lights on. I got myself a cup of coffee and got straight down to work. First thing I noticed was that profound silence. It felt very cozy. There where just my keystrokes that broke the silence from time to time. I was highly focussed and felt very productive. Neither my colleagues, nor my boss where there to interrupt me. No nearby conversations or other noises distracted me from my work. After one or two hours more and more of my coworkers arrived and unfortunately the day became like any other day with frequent interruptions and the feeling not to stay on top of things. But—and that was the cool thing—I _already got_ some important things done that day. That felt awesome! I wanted more of that, less of the other. The following days I tried to repeat it and then decided to try making it a habit. To my surprise it worked out very well, but only if I was disciplined. At work I was way more productive then before. I got more done with less effort. I also improved my work-life balance, because I managed to reduce my overtime.
+
+But how come that I pretty much turned into a early riser, especially if I struggled with it all my life? This is my answer: Because it gave me an positive reward. By getting up early I managed that huge problem at work. Solving that problem improved my work-life balance and by that my sense of well-being. I feel less affected by stress and more healthy (wasn't ill once this winter!). As i mentioned in my [previous blog post](/productivity/2014/01/12/using-the-pomodoro-technique/), our brain is addicted to positive rewards.
+
+I recommend anyone to give it a try. It can be hard, I can tell you that. If you want to try it I suggest—like in every experiment—to vary the parameter, observe the results, conclude on them and then adapt. Try to get up half an hour earlier than you usually do. Repeat that for several days or maybe weeks. Take the time you need to get used to it. Then get up another half an hour earlier and so on, until you still feel fine with it. This is important: You have to feel fine with it, else there will be no positive reward for you and you will stop. And remember to go to bed at a decent time. Your body will tell you if it does not get enough sleep, by being tired and letting your mind get easily distracted. In that case, increase your sleeping time. Another important thing is to keep your _rhythm_ of bedtime and the time you get up. Our brain loves rhythms. To keep a continuous rhythm over a long period of time builds up an automatism that significantly reduces your&nbsp;one's weaker self's question "Do I really want to get up this early or do I hit the snooze button?" and lets you—more or less—jump out of the bed.
+
+For myself I managed to get down to a minimum of 7 hours sleeping time that I feel fine with—that defers from person to person. I am spending two hours before work mainly with reading of books and blog posts and managed to read way more than I used to in the evenings. I also write most of the posts for this blog in the hours before work—I did not even own a blog before, I always wanted to but had 'no time' for it.
+
+Somehow it feels like having the '48 hour day' I always longed for. It is split in a "workday" and a "private day" that is divided into a very productive part in the morning and a very relaxed part in the evening—without the part of feeling bad you didn't do anything for yourself today!
