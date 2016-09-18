@@ -6,7 +6,7 @@ summary:    My experiences with the Pomodoro Technique at work and at home.
 categories: productivity
 ---
 
-In my [previous](/productivity/2014/01/10/new-to-the-pomodoro-technique/) blog post I mentioned the Pomodoro Technique as a useful time management method. Before I deal with the more complicated topics of the Pomodoro Technique in my future blog posts, I want to describe how I use the method's nitty-gritty not only on my job but also at home.
+In my [previous](https://thorbenegberts.github.io/productivity/2014/01/10/pomodoro-technique/) blog post I mentioned the Pomodoro Technique as a useful time management method. Before I deal with the more complicated topics of the Pomodoro Technique in my future blog posts, I want to describe how I use the method's nitty-gritty not only on my job but also at home.
 
 Most time on my job I am very focused. This was not the case until I introduced the Pomodoro Technique to my way of working. My day was driven mostly by reactions to interruptions of my colleagues, e-mails and instant messengers. I got less and less of the things done that I actually wanted or had to get done.
 
