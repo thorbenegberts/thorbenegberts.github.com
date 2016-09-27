@@ -3,7 +3,7 @@ title:       Thorben Egberts' Blog
 author:      Thorben Egberts
 description: "Thoughts, Stories and Ideas."
 baseurl:     ""
-url:         "http://thorbenegberts.com/"
+url:         "http://thorbenegberts.com"
 date_format: "%b %-d, %Y"
 
 # Google services
