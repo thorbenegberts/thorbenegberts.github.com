@@ -6,10 +6,6 @@ summary:    Support continuous improvement with the Continuous Improvement Templ
 categories: agile
 ---
 
-<center>
-	<img src="/assets/2016-09-28-continuous-improvement-template/ContinuousImprovementTemplate.jpg">
-</center>
-
 During my work as a Scrum Master and Agile Coach I attended lots of retrospectives by various teams. One thing I noticed quite a lot is that team members struggle to recall events that happened during the Sprint. This is even more the case for teams that are overburdened or stressed. This is quite a tragedy: Especially those teams could profit from changes. Changes in how they accept work, allocate it within their team, keep track of it and protect themselves against overload. However, it can't be in the interest of the organization to have overloaded teams. In the long term they lack predictability of velocity not only due to illness and signs of burnout, but also because of technical debt that's easy to dismiss if you have to take shortcuts all the time. A peak of assumed high performance is followed by a vale of tears.
 
 However, those teams are in a vicious cycle as long as they don't take a break and agree on real improvements. It's not just that those teams are too busy to improve. For our brain it's hard to notice and remember things while we are in a rush or act in panic. It takes calmness to be mindful.
@@ -21,6 +17,10 @@ Do you know such a team? Or are you even part of such a team or their Scrum Mast
  - **More** (of something)
  - **Stop** (doing something)
  - **Start** (doing something)
+
+<center>
+	<img src="/assets/2016-09-28-continuous-improvement-template/ContinuousImprovementTemplate.jpg">
+</center>
 
  After jotting it down, you can go back to your busy mode. It's out of your head now. Next time you're participating in your team's retrospective, take your Continuous Improvement Template with you. Reflect on things that happened. Together, agree on a first little step to improve the situation. After that, print a fresh copy of the Continuous Improvement Template and keep track of events that verify the effectuality of your change or whatever comes across that could be an input for your next retrospective.
 
