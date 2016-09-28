@@ -25,7 +25,7 @@ Do you know such a team? Or are you even part of such a team or their Scrum Mast
  After jotting it down, you can go back to your busy mode. It's out of your head now. Next time you're participating in your team's retrospective, take your Continuous Improvement Template with you. Reflect on things that happened. Together, agree on a first little step to improve the situation. After that, print a fresh copy of the Continuous Improvement Template and keep track of events that verify the effectuality of your change or whatever comes across that could be an input for your next retrospective.
 
 <center>
-	<iframe src="http://docs.google.com/gview?url={{site.url}}/download/continuous-improvement-template.pdf&embedded=true" frameborder="0"></iframe>
+	<iframe src="http://docs.google.com/gview?url={{site.url}}/download/continuous-improvement-template.pdf&embedded=true" style="width:842px; height:595px;" frameborder="0"></iframe>
 </center>
 
 <center>
