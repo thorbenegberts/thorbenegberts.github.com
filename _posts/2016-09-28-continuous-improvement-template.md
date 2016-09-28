@@ -22,7 +22,7 @@ Do you know such a team? Or are you even part of such a team or their Scrum Mast
 
 <center>
 	<img src="/assets/2016-09-28-continuous-improvement-template/ContinuousImprovementTemplate.jpg">
-</center
+</center>
 
 <iframe src="http://docs.google.com/gview?url={{site.url}}/download/Continuous+Improvement+Template.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
 
