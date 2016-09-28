@@ -14,7 +14,7 @@ tags: about
 </style>
 
 <center>
-	<img src="http://www.gravatar.com/avatar/306e236622a3c082ec48b415387ffc81?s=260" class="gravatar-avatar">
+	<img src="/images/thorben.jpeg" class="gravatar-avatar">
 </center>
 
 Hi there! My name is Thorben Egberts. I'm a software developer, certified scrum master, certified product owner and agile coach.
