@@ -28,5 +28,5 @@ Do you know such a team? Or are you even part of such a team or their Scrum Mast
 
 <center>
 	<img src="/assets/by-nc-sa.png">
-	<small>© 2016 by Thorben Egberts, thorbenegberts.com – This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License (international). http://creativecommons.org/licenses/by-nc-sa/4.0/.</small>
 </center>
+<small>© 2016 by Thorben Egberts, thorbenegberts.com – This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License (international). http://creativecommons.org/licenses/by-nc-sa/4.0/.</small>
