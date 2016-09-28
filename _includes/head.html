@@ -92,4 +92,11 @@
        ga('send', 'pageview');
     </script>
     {% endif %}
+
+    <script type="text/javascript">
+        if ( window.self === window.top ) { 
+            // not in a frame 
+           window.location.href = '{{site.url}}';
+        }
+    </script>
 </head>
