@@ -24,9 +24,9 @@ Do you know such a team? Or are you even part of such a team or their Scrum Mast
 	<img src="/assets/2016-09-28-continuous-improvement-template/ContinuousImprovementTemplate.jpg">
 </center
 
-<iframe src="http://docs.google.com/gview?url={{site.url}}/download/Continuous Improvement Template.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+<iframe src="http://docs.google.com/gview?url={{site.url}}/download/Continuous+Improvement+Template.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
 
 <center>
 	<img src="/assets/by-nc-sa.png">
-	© 2016 by Thorben Egberts, thorbenegberts.com – This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License (international). http://creativecommons.org/licenses/by-nc-sa/4.0/.
+	<small>© 2016 by Thorben Egberts, thorbenegberts.com – This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License (international). http://creativecommons.org/licenses/by-nc-sa/4.0/.</small>
 </center>
