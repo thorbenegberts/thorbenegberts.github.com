@@ -20,7 +20,7 @@ Schneider defines four main types of culture:
 
 However, things are not black and white. Every organization has a core culture that is supported by aspects of the other types of culture.
 
-It’s also possible that your culture gets out of balance, because there are too many aspects of other cultures mixed in, resulting in personal and procedural conflict and ultimately in harm for the organizations productivity. Maybe this is, because there has been a change in leadership or the naive attempt to force feed the organization with an conflicting or complementary kind of culture, e.g. [by *adopting* (instead of *transforming* to) Agile](/an-agile-adoption-and-transformation-survival-guide/).
+It’s also possible that your culture gets out of balance, because there are too many aspects of other cultures mixed in, resulting in personal and procedural conflict and ultimately in harm for the organizations productivity. Maybe this is, because there has been a change in leadership or the naive attempt to force feed the organization with an conflicting or complementary kind of culture, e.g. [by *adopting* (instead of *transforming* to) Agile](/agile/2015/10/01/an-agile-adoption-and-transformation-survival-guide/).
 
 To find out what kind of culture you are in now, Schneider suggests taking this [survey](https://www.surveymonkey.com/s/VVNT5FB) or handing it to your staff, respectively.
 
