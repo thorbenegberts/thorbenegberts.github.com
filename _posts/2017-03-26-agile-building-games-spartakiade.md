@@ -12,7 +12,7 @@ Die diesjährige [Spartakiade](https://spartakiade.org/) in Berlin war ein gelun
 
 # Was vorher geschah
 
-Ich bin eher zufällig zur Spartakiade geraten. Matthias hatte sich ursprünglich für zwei Workshops am Samstag und Sonntag zur Verfügung gestellt. Matthias ist immer viel unterwegs. Durch eine Änderung in seinem Terminkalender konnte er leider nur noch den Workshop am Samstag durchführen. Kurzerhand meldete sich Matthias mit der Frage bei mir, ob ich den Workshop am Sonntag nicht übernehmen könne – nicht ohne mich mit den guten Rahmenbedingungen der Spartakiade in Verführung zu bringen. 
+Ich bin eher zufällig zur Spartakiade geraten. Matthias hatte sich ursprünglich für zwei Workshops am Samstag und Sonntag zur Verfügung gestellt. Matthias ist immer viel unterwegs. Durch eine Änderung in seinem Terminkalender konnte er leider nur noch den Workshop am Samstag durchführen. Kurzerhand meldete sich Matthias mit der Frage bei mir, ob ich den Workshop am Sonntag nicht übernehmen könne – nicht ohne mich mit den guten Rahmenbedingungen der Spartakiade in Verführung zu bringen.
 
 Für den Samstag hatte Matthias einen ganztägigen Workshop zum Thema LEGO Serious Play vorgesehen. Für den Sonntag war ein Workshop geplant, der neben einer erneuten Einführung in das Thema LEGO Serious Play auch einige Agile Games mit LEGO enthalten sollte. In meinem Terminkalender sprach nichts dagegen, den Workshop am Sonntag zu übernehmen. Gleichzeitig nehme ich gern jede Gelegenheit wahr, meine Fähigkeiten als Trainer und Facilitator zu verbessen. Also sagte ich direkt zu.
 
@@ -76,7 +76,7 @@ Darauf gingen wir das MVP von der anderen Seite an. Im Rahmen eines Szenarios mi
 
 (Hier folgt noch eine Verlinkung auf eine ausführliche Anleitung zu meiner Variante des LEGO Minimum Viable Product (MVP) Games)
 
-## LEGO Minimum Viable Product (MVP) Game
+## LEGO Product Owner Challenge
 
 Nach einer kurzen Verschnaufpause ging es direkt weiter mit der LEGO Product Owner Challenge. Ein Spiel, bei dem es vor allem um die Kommunikation von Anforderungen geht.
 
@@ -136,7 +136,7 @@ Mit etwa sechs bis sieben Stunden reiner Workshop-Zeit war es mein bisher längs
 
 Die Kombination von LEGO Serious Play und Agile Games war nicht für jeden Teilnehmer nachvollziehbar und sorgte für etwas Verwirrung. Auch wenn es beides mit LEGO zu tun hat – der Ansatz ist doch sehr unterschiedlich. Bei dem einen geht es um das Bauen von Metaphern und das gemeinsame Verständnis. Beim anderen geht es eher um das spielerische Vermitteln von Konzepten bzw. die Festigung einer Haltung, die auf agilen Werten und Prinzipien beruht. Manche hätten gern mehr von LEGO Serious Play erfahren und wären beim Workshop von Matthias am Vortag besser aufgehoben gewesen. Auch hätte ich selbst eine klarere Trennlinie zwischen den beiden Teilen ziehen müssen.
 
-Dies und der zeitliche Aspekt lassen mich zur Entscheidung kommen, bei einer möglichen Wiederholung auf den Teil mit LEGO Serious Play zu verzichten. Statt dessen sollte dem Thema LEGO Serious Play ein ganzer Workshop-Tag gewidmet werden, wie ihn Matthias am Vortag angeboten hat. 
+Dies und der zeitliche Aspekt lassen mich zur Entscheidung kommen, bei einer möglichen Wiederholung auf den Teil mit LEGO Serious Play zu verzichten. Statt dessen sollte dem Thema LEGO Serious Play ein ganzer Workshop-Tag gewidmet werden, wie ihn Matthias am Vortag angeboten hat.
 
 Außerdem überlege ich ernsthaft, jetzt wo ich mich noch intensiver mit LEGO Serious Play beschäftigt habe, das Training zum LEGO Serious Play Facililitator zu machen. Ich habe nun noch mehr gemerkt, wie mächtig und lösungsorientiert dieses Werkzeug sein kann und dass ich es selbst sehr gut einsetzen könnte, um Personen, Teams und das Unternehmen in dem ich Arbeite auf der Lösungsfindung zu unterstützen.
 
@@ -147,4 +147,3 @@ Hier finden sich Eindrücke vom Event: [https://goo.gl/photos/dnweEcXo9BY8KPUH6]
 Weitere Eindrücke findet ihr unter dem Hashtag [\#spartakiade](https://twitter.com/search?f=tweets&vertical=default&q=%23spartakiade&src=typd)
 
 PS: [Torsten](https://twitter.com/TorstenWeber) und [Gregor](https://twitter.com/GregOnNet) veranstalten im Oktober im 10 Jahr in Folge den [Developer Open Space](https://devopenspace.de/) in Leipzig.
-
