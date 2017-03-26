@@ -8,7 +8,7 @@ categories: agile
 
 Die diesjährige [Spartakiade]()(https://spartakiade.org/) in Berlin war ein gelungenes Event. Gefühlt reibungslose Organisation, angenehme Teilnehmer und Teilnehmerzahl. Viele und abwechslungsreiche Workshops. Und – da hat sich das Schwärmen von [Matthias Seul]()(https://twitter.com/MatthiasSeul) bewahrheitet – sehr gutes, reichliches und abwechslungsreiches Essen und Getränke. Laut [Torsten Weber]()(https://twitter.com/TorstenWeber), einer der Organisatoren, einer der wichtigsten Eigenschaften der Spartakiade und vergleichbarer Events. Denn Essen und Trinken hält schließlich Leib und Seele zusammen und stärkt während der intensiven Workshops die „Truppenmoral”. Auch die Location war mit der Immobilien Scout GmbH gut gewählt. Gut aufgeteilte Räumlichkeiten und abwechslungsreiche Rückzugsmöglichkeiten.
 
-\<a href='https://photos.google.com/share/AF1QipNTP7ZfnG9MpfzdzE8WGdhvm5KjA8yE-yZcY4urnryI3aHkZO4WSoY1Fx9avpLpyw?key=a3VzdkVYQS1DRTFQaXlLMkJIVklxV1NUekg2NDFn&source=ctrlq.org'\>\<img src='https://lh3.googleusercontent.com/QkRI7JTEZ30m9Ooo4yV_eUctqD61gemLX4wtbj7Tt9z3azu5hXrobCwm_XalSDGuXhs6bbq3F5bTgCeyn2xyoDWKuDOyIVaGpt7MNQASD3h3uirudoe1-RvoRhQRXRJjJsIrH6A' /\>\</a\>
+<a href='https://photos.google.com/share/AF1QipNTP7ZfnG9MpfzdzE8WGdhvm5KjA8yE-yZcY4urnryI3aHkZO4WSoY1Fx9avpLpyw?key=a3VzdkVYQS1DRTFQaXlLMkJIVklxV1NUekg2NDFn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/QkRI7JTEZ30m9Ooo4yV_eUctqD61gemLX4wtbj7Tt9z3azu5hXrobCwm_XalSDGuXhs6bbq3F5bTgCeyn2xyoDWKuDOyIVaGpt7MNQASD3h3uirudoe1-RvoRhQRXRJjJsIrH6A' /></a>
 
 # Was vorher geschah
 
