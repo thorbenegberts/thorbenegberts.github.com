@@ -138,7 +138,7 @@ Die Kombination von LEGO Serious Play und Agile Games war nicht für jeden Teiln
 
 Dies und der zeitliche Aspekt lassen mich zur Entscheidung kommen, bei einer möglichen Wiederholung auf den Teil mit LEGO Serious Play zu verzichten. Statt dessen sollte dem Thema LEGO Serious Play ein ganzer Workshop-Tag gewidmet werden, wie ihn Matthias am Vortag angeboten hat.
 
-Außerdem überlege ich ernsthaft, jetzt wo ich mich noch intensiver mit LEGO Serious Play beschäftigt habe, das Training zum LEGO Serious Play Facililitator zu machen. Ich habe nun noch mehr gemerkt, wie mächtig und lösungsorientiert dieses Werkzeug sein kann und dass ich es selbst sehr gut einsetzen könnte, um Personen, Teams und das Unternehmen in dem ich Arbeite auf der Lösungsfindung zu unterstützen.
+Außerdem überlege ich ernsthaft, jetzt wo ich mich noch intensiver mit LEGO Serious Play beschäftigt habe, das Training zum LEGO Serious Play Facilitator zu machen. Ich habe nun noch mehr gemerkt, wie mächtig und lösungsorientiert dieses Werkzeug sein kann und dass ich es selbst sehr gut einsetzen könnte, um Personen, Teams und das Unternehmen in dem ich Arbeite auf der Lösungsfindung zu unterstützen.
 
 Gesamt gesehen fand ich das Event sehr gelungen. Wie schon erwähnt: Tolle Location, gutes Essen, interessante und nette Menschen, große Vielfalt von Workshops. Ich würde es wieder machen. **An dieser Stelle auch noch einmal vielen Dank an die Organisatoren, die Teilnehmer meines Workshops und Matthias, der an mich als Vertretung gedacht hat!**
 
