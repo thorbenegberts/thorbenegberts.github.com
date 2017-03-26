@@ -2,7 +2,7 @@
 layout:     post
 title:      Agile Building Games @ Spartakiade
 date:       2017-03-26 16:57:00
-summary:    LEGO Serious Play and LEGO Agile Games
+summary:    LEGO Serious Play and LEGO Agile Games auf der Spartakiade in Berlin
 categories: agile
 ---
 
