@@ -2,7 +2,7 @@
 layout: page
 title: Agile Monday Kassel
 permalink: /agile-monday-kassel/
-tags: agile
+tags: agmks
 ---
 
 <center>
