@@ -14,5 +14,5 @@ Our Twitter handle is [@AgileMondayKS](https://twitter.com/AgileMondayKS), our h
 See you there?
 
 <center>
-	<a href="[Meetup](https://www.meetup.com/de-DE/Agile-Monday-Kassel/)" target="_blank"><img src="/images/agile-monday-kassel-logo.png"></a>
+	<a href="https://www.meetup.com/de-DE/Agile-Monday-Kassel/" target="_blank"><img src="/images/agile-monday-kassel-logo.png"></a>
 </center>
