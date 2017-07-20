@@ -2,6 +2,7 @@
 layout: page
 title: Agile Usergroup Kassel
 permalink: /agile-usergroup-kassel/
+tags: auk
 ---
 
 The Agile Usergroup Kassel is an open community for people interested in topics like Agile, Scrum, Kanban, Lean, Kanban etc. We usually meet every once every month.
