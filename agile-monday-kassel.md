@@ -1,18 +1,17 @@
 ---
 layout: page
-title: Agile Monday Kassel
-permalink: /agile-monday-kassel/
-tags: agmks
+title: Agile Usergroup Kassel
+permalink: /agile-usergroup-kassel/
 ---
 
-The Agile Monday Kassel is an open community for people interested in topics like Agile, Scrum, Kanban, Lean, Kanban etc. We usually meet every first Monday of the month.
+The Agile Usergroup Kassel is an open community for people interested in topics like Agile, Scrum, Kanban, Lean, Kanban etc. We usually meet every once every month.
 
-For more information, visit the Agile Monday’s website [agile-monday.de](http://www.agile-monday.de/kassel/). To explore or register for upcoming events, visit us on [Meetup](https://www.meetup.com/de-DE/Agile-Monday-Kassel/) or [Xing](https://www.xing.com/communities/groups/agile-monday-kassel-974b-1050362).
+For more information, visit the Agile Usergroup Kassel’s [website](https://agileusergroupkassel.jimdo.com/). To explore or register for upcoming events, visit us on [Meetup](https://www.meetup.com/de-DE/Agile-Usergroup-Kassel/) or [Xing](https://www.xing.com/communities/groups/agile-usergroup-kassel-749b-1050362).
 
-Our Twitter handle is [@AgileMondayKS](https://twitter.com/AgileMondayKS), our hashtag is [\#agmks](https://twitter.com/hashtag/agmks?src=hash).
+Our Twitter handle is [@AgileUsrgrpKs](https://twitter.com/AgileUsrgrpKs).
 
 See you there?
 
 <center>
-	<a href="https://www.meetup.com/de-DE/Agile-Monday-Kassel/" target="_blank"><img src="/images/agile-monday-kassel-logo.png"></a>
+	<a href="https://www.meetup.com/de-DE/Agile-Usergroup-Kassel/" target="_blank"><img src="/images/agile-usergroup-kassel-logo.png"></a>
 </center>
