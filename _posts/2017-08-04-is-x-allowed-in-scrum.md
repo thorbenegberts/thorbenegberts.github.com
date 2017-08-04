@@ -6,8 +6,6 @@ summary:    Three Questions to Facilitate Decisions
 categories: agile
 ---
 
-# Is X Allowed in Scrum? – Three Questions to Facilitate Decisions
-
 Great Scrum Teams continuously improve their way of working. Sooner or later the team asks itself: Is this “allowed” in Scrum? Or: Is it “compatible”?
 
 This is a decision that the Scrum Master should facilitate. But especially for new Scrum Masters this question is often a tough one.
