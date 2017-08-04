@@ -6,8 +6,6 @@ summary:    What to do, if there is no Product Owner for the Sprint Review
 categories: agile
 ---
 
-# No Product Owner, No Sprint Review? – What to do, if there is no Product Owner for the Sprint Review
-
 Sooner or later a Scrum Team finds itself in the situation that the Product Owner is not available for the Sprint Review. They ask themselves what to do: Reschedule the Sprint Review? Or just skip it?
 
 # Rescheduling the Sprint Review
