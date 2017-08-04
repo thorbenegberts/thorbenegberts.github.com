@@ -2,7 +2,7 @@
 layout:     post
 title:      No Product Owner, No Sprint Review?
 date:       2017-08-04 12:51
-summary:    What to do, if there is no Product Owner for the Sprint Review
+summary:    What to Do, If There Is No Product Owner for the Sprint Review
 categories: agile
 ---
 
