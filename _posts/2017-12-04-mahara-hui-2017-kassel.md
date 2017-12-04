@@ -2,7 +2,7 @@
 layout:     post
 title:      Mahara Hui 2017
 date:       2017-12-04 10:45
-summary:    Kurzbericht von der Fachtagung für Portfolioarbeit
+summary:    Kurzbericht von der Fachtagung für Portfolioarbeit im Barcamp-Format.
 categories: agile
 ---
 
