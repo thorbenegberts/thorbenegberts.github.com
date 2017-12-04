@@ -6,7 +6,7 @@ summary:    Kurzbericht von der Fachtagung für Portfolioarbeit im Barcamp-Forma
 categories: agile
 ---
 
-„Agile Learning Culture for Success” war das Motto der 5. Mahara Hui, die Fachtatung für Portfolioarbeit im Barcamp-Format vom 30. November bis 2. Dezember. [Mahara](https://mahara.org/) ist eine Open-Source-Software für E-Portfolios, die insbesondere von Schulen und Universitäten, aber zunehmend auch von Unternehmen benutzt wird. „Hui” ist Maori und bedeutet so viel wie „Zusammenkunft”. Bei dieser Zusammenkunft ging es nicht nur um die Mahara-Software selbst, sondern allgemein um das Thema Lernen heute und in der Zukunft und wie zeitgemäße technische und organisatorische Ansätze nützlich sein können. Ausgerichtet wurde das BarCamp von [Lpaso, dem Institut für Lernkultur](http://www.lpaso.de/) in den Räumlichkeiten der Max-Eyth-Schule Kassel.
+„Agile Learning Culture for Success” war das Motto der 5. Mahara Hui, die Fachtatung für Portfolioarbeit im Barcamp-Format vom 30. November bis 2. Dezember. [Mahara](https://mahara.org/) ist eine Open-Source-Software für E-Portfolios, die insbesondere von Schulen und Universitäten, aber zunehmend auch von Unternehmen benutzt wird. „Hui” ist Maori und bedeutet so viel wie „Zusammenkunft”. Bei dieser Zusammenkunft ging es nicht nur um die Mahara-Software selbst, sondern allgemein um das Thema Lernen heute und in der Zukunft und wie zeitgemäße technische und organisatorische Ansätze nützlich sein können. Ausgerichtet wurde das Barcamp von [Lpaso, dem Institut für Lernkultur](http://www.lpaso.de/) in den Räumlichkeiten der Max-Eyth-Schule Kassel.
 
 ## Tag 1
 
