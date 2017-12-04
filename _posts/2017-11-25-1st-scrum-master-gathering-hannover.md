@@ -69,4 +69,4 @@ Die Organisation des Events war tadellos, die Location bei [tecRacer](https://ww
 
 Ich komme also gerne wieder und bringe sicher noch jemanden mit!
 
-Impresionen sind unter [#1smgh](https://twitter.com/hashtag/1smgh?src=hash) zu finden.
+Impressionen sind unter [#1smgh](https://twitter.com/hashtag/1smgh?src=hash) zu finden.
