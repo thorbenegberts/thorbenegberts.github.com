@@ -98,7 +98,14 @@ Beim ersten Beispiel mit dem nicht startenden Auto könnten wir mit mehreren Kfz
 
 Das Beispiel des Projekts, dessen Fertigstellungstermin nicht eingehalten wurde, zeigt, dass es mehrere Perspektiven gibt, aus der die Situation betrachtet werden kann. Der Guardian hat 1986 eine Werbung geschaltet, die das wunderbar verbildlicht:
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/rjPUZIeeepQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></center>
+<center>
+  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+  <p>
+    <div class='embed-container'>
+      <iframe src='https://www.youtube.com/embed/rjPUZIeeepQ' frameborder='0' allowfullscreen></iframe>
+    </div>
+  </p>
+</center>
 
 Bei der Bearbeitung komplexer Probleme muss also allen Beteiligten bewusst sein, dass:
 
